@@ -1,0 +1,6 @@
+
+State Machine - |whack_a_mole|control:FSM|current_state
+Name current_state.S_stand_by current_state.S_end_game current_state.S_start_game 
+current_state.S_stand_by 0 0 0 
+current_state.S_start_game 1 0 1 
+current_state.S_end_game 1 1 0 
