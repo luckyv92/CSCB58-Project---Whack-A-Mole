@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Mar 28 14:42:10 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : whack_a_mole
+Top-level Entity Name : whack_a_mole
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 525 / 114,480 ( < 1 % )
+    Total combinational functions : 520 / 114,480 ( < 1 % )
+    Dedicated logic registers : 165 / 114,480 ( < 1 % )
+Total registers : 172
+Total pins : 118 / 529 ( 22 % )
+Total virtual pins : 0
+Total memory bits : 57,600 / 3,981,312 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
